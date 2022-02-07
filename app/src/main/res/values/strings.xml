@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AERS_Global</string>
+    <string name="title_Finance">Finance</string>
+    <string name="title_Inspection">Inspection</string>
+    <string name="title_Food_Basics">Food Basics</string>
+    <string name="title_Catering_and_Events">Catering</string>
+</resources>
